@@ -1,3 +1,6 @@
 [submodule "jstat"]
 	path = jstat
 	url = https://github.com/jstat/jstat
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery
